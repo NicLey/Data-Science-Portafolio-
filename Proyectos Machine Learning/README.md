@@ -10,5 +10,3 @@ Este proyecto forma parte de un curso de Minería de Datos y Machine Learning. S
 - `notebooks/MP2.ipynb`: Notebook principal con análisis y modelos.
 - Librerías utilizadas: `mlxtend`, `sklearn`, `pandas`.
 - Evaluaciones de modelos y resultados obtenidos.
-## Ejemplo de resultados
-![Confusion Matrix](images/confusion_matrix.png)
