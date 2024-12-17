@@ -11,7 +11,7 @@ Este repositorio contiene proyectos de ciencia de datos enfocados en análisis d
 2. **Modelo Predictivo para E-commerce**
    - Descripción: Predicción de ventas utilizando regresión lineal.
    - Herramientas: Python, Scikit-Learn.
-   - [Ver proyecto](./Proyectos-Machine-Learning/MP2.ipynb/)
+   - [Ver proyecto]([Proyectos Machine Learning/MP2.ipynb](https://github.com/NicLey/Data-Science-Portafolio-/blob/24bae876f7bdded375a366935b4b52830a165c49/Proyectos%20Machine%20Learning/MP2.ipynb))
 
 3. **Detección de Fraudes con Machine Learning**
    - Descripción: Implementación de algoritmos para detectar comportamientos fraudulentos.
