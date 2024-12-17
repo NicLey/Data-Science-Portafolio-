@@ -27,7 +27,7 @@ Este repositorio contiene proyectos de ciencia de datos enfocados en análisis d
 - **Bibliotecas de Python:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Visualización de Datos:** Power BI, Looker Studio, Matplotlib
 - **Machine Learning:** Modelos supervisados y no supervisados (Regresión, K-Means, DBSCAN)
-- **Bases de Datos:** SQL Azure
+- **Bases de Datos:** SQL Azure, SQL Server y MySQL
 - **Herramientas Adicionales:** Excel, Git, GitHub
 ## Contacto
 - **LinkedIn:** (https://www.linkedin.com/in/nicol%C3%A1s-godoy-canales-89209421a/)
