@@ -6,22 +6,18 @@ Este repositorio contiene proyectos de ciencia de datos enfocados en análisis d
 1. **Análisis Exploratorio de Datos (EDA)**
    - Descripción: Limpieza, análisis y visualización de datos de un dataset.
    - Herramientas: Python, Pandas, Matplotlib, Seaborn.
-   - [Ver proyecto](./proyectos/EDA/)
 
 2. **Modelo Predictivo para E-commerce**
    - Descripción: Predicción de ventas utilizando regresión lineal.
    - Herramientas: Python, Scikit-Learn.
-   - [Ver proyecto](https://github.com/NicLey/Data-Science-Portafolio-/blob/24bae876f7bdded375a366935b4b52830a165c49/Proyectos%20Machine%20Learning/MP2.ipynb)
 
 3. **Detección de Fraudes con Machine Learning**
    - Descripción: Implementación de algoritmos para detectar comportamientos fraudulentos.
    - Herramientas: Python, DBSCAN, K-means, Power BI.
-   - [Ver proyecto](./proyectos/fraud_detection/)
 
 4. **Dashboard de Visualización**
    - Descripción: Creación de un dashboard interactivo para análisis de datos en Power BI y Looker Studio.
    - Herramientas: Power BI, Looker Studio.
-   - [Ver proyecto](./proyectos/visualization_dashboard/)
 ## Habilidades y Herramientas
 - **Lenguajes de Programación:** Python, SQL
 - **Bibliotecas de Python:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
