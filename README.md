@@ -9,7 +9,7 @@ Este repositorio contiene proyectos de ciencia de datos enfocados en análisis d
 
 2. **Modelo Predictivo para E-commerce**
    - Descripción: Predicción de ventas utilizando regresión lineal.
-   - Herramientas: Python, Scikit-Learn.
+   - Herramientas: Python, Scikit-Learn. XGBoost
 
 3. **Detección de Fraudes con Machine Learning**
    - Descripción: Implementación de algoritmos para detectar comportamientos fraudulentos.
