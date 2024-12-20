@@ -69,7 +69,7 @@ En este proyecto se realizó un análisis exhaustivo de un conjunto de datos pro
    git clone https://github.com/NicLey/Data-Science-Portafolio-.git
 
 
-### Proyecto 2: Analisis Avanzado y clustering de datos de clientes
+# Proyecto 2: Analisis Avanzado y clustering de datos de clientes
 
 **Descripción:**  
 En este proyecto se llevó a cabo un análisis avanzado del comportamiento de los clientes de la empresa ficticia Amazoff. El objetivo principal fue identificar patrones en los datos y realizar una segmentación efectiva utilizando técnicas estadísticas y de machine learning. Esto permitió generar insights clave para estrategias de marketing personalizadas.
