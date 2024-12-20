@@ -159,9 +159,8 @@ Este proyecto se centra en la construcción de modelos predictivos para identifi
 
 ## **Resultados principales:**
 
-- **Modelo seleccionado:** XGBoost obtuvo una precisión del **XX%** y un AUC del **XX%**, superando a otros modelos probados.
+- **Modelo seleccionado:** XGBoost obtuvo una precisión del **74%** y un AUC del **87%**, superando a otros modelos probados.
 - **Insights clave:**
-  - Las características **[ejemplo: tasa de repetición de compras]** y **[ejemplo: valor promedio del carrito]** fueron las más relevantes para las predicciones.
   - Identificación de clientes con mayor probabilidad de realizar compras repetidas.
 - **Visualizaciones:** Se generaron gráficos explicativos para los resultados, incluyendo:
   1. Curvas ROC para comparar modelos.
