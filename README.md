@@ -1,4 +1,4 @@
-# Data-Science-Portafolio-🧠-📊
+# Data-Science-Portafolio
 Este repositorio contiene proyectos de ciencia de datos enfocados en análisis de datos, visualización, aprendizaje automático y aplicaciones prácticas en áreas como retail, e-commerce y detección de fraudes.
 # Portafolio de Ciencia de Datos
 ¡Hola! Soy Nicolás Godoy, apasionado por la ciencia de datos y el análisis de información para la toma de decisiones. En este repositorio encontrarás proyectos que demuestran mis habilidades en análisis exploratorio de datos, machine learning, visualización de datos y aplicaciones prácticas en diversas áreas.
